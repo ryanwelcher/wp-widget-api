@@ -1,1 +1,1 @@
-========== WP Widget API ============
+# WP Widget API #
